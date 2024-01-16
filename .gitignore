@@ -1,0 +1,11 @@
+__pycache__
+.DS_Store
+data/**
+!data/feature_selection.csv
+Decoding Sector Valuation Dynamics.*
+!Decoding Sector Valuation Dynamics.pdf
+!Decoding Sector Valuation Dynamics.tex
+!biblio.bib
+Proposal.*
+Advisor*
+*Data Collection*
